@@ -1,2 +1,2 @@
 # CositasConPython
-Algunos proyectos en python.
+Algunos proyectos en python , para no perder practica.
